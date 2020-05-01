@@ -1,0 +1,15 @@
+2019-01-27 09:23:30.358 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, update_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-01-27 09:23:30.405 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Integer)
+2019-01-27 09:23:30.430 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-01-27 09:24:46.876 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, update_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-01-27 09:24:46.914 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 2(Integer)
+2019-01-27 09:24:46.937 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-01-27 09:31:36.059 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, update_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-01-27 09:31:36.097 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-01-27 09:31:36.120 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-01-27 09:32:03.741 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, update_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-01-27 09:32:03.775 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-01-27 09:32:03.796 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-01-27 09:32:22.752 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: SELECT shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, update_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-01-27 09:32:22.787 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-01-27 09:32:22.808 [thread] DEBUG com.ssm.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
